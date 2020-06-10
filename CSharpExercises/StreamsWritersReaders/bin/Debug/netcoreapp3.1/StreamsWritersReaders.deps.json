@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StreamsWritersReaders/1.0.0": {
+        "runtime": {
+          "StreamsWritersReaders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamsWritersReaders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

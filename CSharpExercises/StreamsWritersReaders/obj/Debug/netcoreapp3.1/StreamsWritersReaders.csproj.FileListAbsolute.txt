@@ -1,0 +1,13 @@
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\bin\Debug\netcoreapp3.1\StreamsWritersReaders.exe
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\bin\Debug\netcoreapp3.1\StreamsWritersReaders.deps.json
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\bin\Debug\netcoreapp3.1\StreamsWritersReaders.runtimeconfig.json
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\bin\Debug\netcoreapp3.1\StreamsWritersReaders.runtimeconfig.dev.json
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\bin\Debug\netcoreapp3.1\StreamsWritersReaders.dll
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\bin\Debug\netcoreapp3.1\StreamsWritersReaders.pdb
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\obj\Debug\netcoreapp3.1\StreamsWritersReaders.csproj.CoreCompileInputs.cache
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\obj\Debug\netcoreapp3.1\StreamsWritersReaders.AssemblyInfoInputs.cache
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\obj\Debug\netcoreapp3.1\StreamsWritersReaders.AssemblyInfo.cs
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\obj\Debug\netcoreapp3.1\StreamsWritersReaders.dll
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\obj\Debug\netcoreapp3.1\StreamsWritersReaders.pdb
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\obj\Debug\netcoreapp3.1\StreamsWritersReaders.genruntimeconfig.cache
+C:\Users\oscar.acevedo\source\repos\CSharpExersises\CSharpExercises\StreamsWritersReaders\obj\Debug\netcoreapp3.1\StreamsWritersReaders.csprojAssemblyReference.cache
