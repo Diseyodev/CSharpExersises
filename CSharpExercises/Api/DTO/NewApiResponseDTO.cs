@@ -8,7 +8,7 @@ namespace Api.DTO
         [JsonProperty("status")]
         public string Status { get; set; }
 
-        [JsonProperty("total_results")]
+        [JsonProperty("totalResults")]
         public int TotalResults { get; set; }
 
         [JsonProperty("articles")]

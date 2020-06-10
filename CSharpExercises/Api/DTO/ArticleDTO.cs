@@ -4,10 +4,10 @@ namespace Api.DTO
 {
     public class ArticleDTO
     {
-        [JsonProperty("Source")]
+        [JsonProperty("source")]
         public SourceDTO Source { get; set; }
 
-        [JsonProperty("autor")]
+        [JsonProperty("author")]
         public string Author { get; set; }
 
         [JsonProperty("title")]
@@ -19,10 +19,10 @@ namespace Api.DTO
         [JsonProperty("url")]
         public string Url { get; set; }
 
-        [JsonProperty("url_to_image")]
+        [JsonProperty("urlToImage")]
         public string UrlToImage { get; set; }
 
-        [JsonProperty("published_at")]
+        [JsonProperty("publishedAt")]
         public string PublishedAt { get; set; }
 
         [JsonProperty("content")]
